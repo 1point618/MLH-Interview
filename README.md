@@ -19,7 +19,7 @@ Once you've done everything and run the `source` command, run `$ eb status` to m
 
 For your first time creating an EB App, you should use this code to make it easy to try out. Fork the repo using the "Fork" button at the top of this page. 
 
-![Location of "Fork"](https://raw.githubusercontent.com/1point618/MLH-Interview/master/images/fork.png?token=AA1hXgt90f8ge9BB3MtjzCshA4lX4Q6jks5Zm4huwA%3D%3D)
+![Location of "Fork"](https://github.com/1point618/MLH-Interview/blob/master/images/fork.png)
 
 Once you've done that, click on the green "Clone or Download" button on your version of the repository and either use the "git clone" command to download the code locally, or download the .zip from GitHub.
 
