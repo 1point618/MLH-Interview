@@ -13,4 +13,4 @@ If you're using MacOS, you'll need to have XCode installed, then install the XCo
 
 For your first time creating an EB App, you should use this code to make it easy to try out. Fork the repo using the "Fork" button at the top of this page. 
 
-![images/fork.png]
+![Location of "Fork"](https://raw.githubusercontent.com/1point618/MLH-Interview/master/images/fork.png?token=AA1hXgt90f8ge9BB3MtjzCshA4lX4Q6jks5Zm4huwA%3D%3D)
